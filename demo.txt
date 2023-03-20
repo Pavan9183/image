@@ -1,3 +1,4 @@
 add
 commit
 PUSH
+pull
