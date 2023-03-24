@@ -1,9 +1,5 @@
 add
 commit
 push
-<<<<<<< HEAD
-angle
-=======
 angle
 good
->>>>>>> 0465e08c0c3e7d62c98476e0ba74aabd7e78f24c
